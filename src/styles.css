@@ -1,1 +1,12 @@
-/* You can add global styles to this file, and also import other style files */
+
+.heading
+{
+    margin-top: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-size:xx-large;
+    color: rgb(62, 20, 247);
+    margin-left: 250px;
+}
+
+ 
